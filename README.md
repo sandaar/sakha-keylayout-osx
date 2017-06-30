@@ -22,6 +22,8 @@ Shift pressed
 Opt pressed
 ![image](/readme_images/opt_pressed.png? "Opt Pressed")
 
+Opt and Shift pressed
+![image](/readme_images/opt_shift_pressed.png? "Opt Pressed")
 
 
 Resources used:
