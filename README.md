@@ -7,6 +7,9 @@ Tested on Mac OS X 10.12.3
 cp -r Sakha_Yakut.bundle ~/Library/Keyboard\ Layouts/
 ```
 
+Choose Sakha in input sources
+![image](/readme_images/input_sources.png? "Input Sources")
+
 
 ![image](/readme_images/desktop_view.png? "Icon View")
 
@@ -23,7 +26,7 @@ Opt pressed
 ![image](/readme_images/opt_pressed.png? "Opt Pressed")
 
 Opt and Shift pressed
-![image](/readme_images/opt_shift_pressed.png? "Opt Pressed")
+![image](/readme_images/opt_shift_pressed.png? "Opt Shift Pressed")
 
 
 Resources used:
