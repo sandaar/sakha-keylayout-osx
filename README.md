@@ -1,7 +1,7 @@
 # sakha-keylayout-osx
 Sakha (Yakut) keyboard layout for Mac OS X
 
-Tested on Mac OS X 10.12.3
+Tested on Mac OS X 10.12.3, 15.5
 
 ```
 cp -r Sakha_Yakut.bundle ~/Library/Keyboard\ Layouts/
